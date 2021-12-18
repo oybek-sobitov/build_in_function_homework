@@ -7,4 +7,4 @@ def num(number):
     answer = abs(number)
     return answer
 
-num(-8.)
+print(num(-8))
