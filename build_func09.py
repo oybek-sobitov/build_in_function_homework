@@ -2,5 +2,5 @@
 # https://github.com/codeschool43/Build_in_function_homework#build_func09
 x = 2
 y = 4
-answer = 2*(y**3+y*x**2)
+answer = 2*(pow(y,3)+y*pow(x,2))
 print(answer)
