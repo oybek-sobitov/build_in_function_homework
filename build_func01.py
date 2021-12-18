@@ -3,9 +3,8 @@
 # Find the absolute value of a "number" and assign to  "answer" 
 
 # Print the answer
-def num():
-    number = -8
+def num(number):
     answer = abs(number)
     return answer
 
-print(num())
+num(-8)
